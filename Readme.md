@@ -1,0 +1,2 @@
+Hey, este projeto é um protótipo da primeira fase do Game Alcântara, idealizado pelo Prof° José Vilas Boas. Todo o código neste repositório foi feito por mim no GameMaker Studio 2 utilizando os recursos limitados da versão gratuita.
+O jogo Alcântara é do tipo plataforma 2D, no qual o personagem principal é um astronauta que viaja pelo sistema solar com o objetivo de explorar os planetas em busca de recursos.
